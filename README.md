@@ -14,7 +14,7 @@ LogGuardian is a log analysis tool that detects security threats like brute forc
 
 1. Clone this repository:
 https://github.com/AfraDemir/LogGuardian/tree/main/Logguardian_2.0
-cd logguardian
+cd LogGuardian/Logguardian_2.0
 2. Run the script
 
 ## Usage
